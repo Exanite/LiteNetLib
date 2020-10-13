@@ -1,0 +1,7 @@
+{
+	"name": "com.revenantx.litenetlib",
+	"displayName": "LiteNetLib",
+	"version": "9.3.2",
+	"description": "Lite reliable UDP library for Mono and .NET",
+	"dependencies": {}
+}
